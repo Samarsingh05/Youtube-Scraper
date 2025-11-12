@@ -1,0 +1,10 @@
+google-api-python-client
+youtube-transcript-api
+pandas
+openpyxl
+rapidfuzz
+requests
+beautifulsoup4
+tqdm
+selenium
+webdriver-manager
